@@ -3,6 +3,7 @@ https://www.youtube.com/watch?v=tNeaQwqWxF4
 # [QPM] Quest Package Manger
 https://github.com/sc2ad/QuestPackageManager/actions/runs/1655161985
 # How to BSaber Quest Modding Guide
+
 We will start from Lauriethefish's project template. It's made to use the VSCode Project Templates extension by cantonios. If you're using VSCode and the extension, see the next section (Using VSCode Project Templates), otherwise skip to the one after (Without Project Templates)
 
 Using VSCode Project Templates
