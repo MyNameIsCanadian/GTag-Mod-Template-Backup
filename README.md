@@ -1,6 +1,9 @@
 # Other
 http://man.hubwiz.com/docset/Unity_3D.docset/Contents/Resources/Documents/docs.unity3d.com/Manual/xr_input.html
+
 https://docs.unity.cn/Packages/com.unity.xr.openxr@1.2/api/UnityEngine.XR.OpenXR.Features.ConformanceAutomation.ConformanceAutomationFeature.html
+
+https://developer.android.com/ndk/downloads
 
 # GTag-Mod-Template-Backup
 https://www.youtube.com/watch?v=tNeaQwqWxF4
